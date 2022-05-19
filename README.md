@@ -15,6 +15,6 @@ This is the version with GUI interface. A python3 file (compatible with all comp
 
 A command line version in Pyhton. TO run it:
 
-```python3 MXLIFF2Wikil-lite.py filetoconvert.xlf```
+```python3 MXLIFF2Wiki-lite.py filetoconvert.xlf```
 
 The converted file will be named: filetoconvert.xlf.out.txt
